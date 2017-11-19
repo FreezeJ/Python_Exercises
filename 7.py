@@ -13,4 +13,4 @@ c = a  # 深copy
 print id(c)
 d = a[::-1] # 倒序
 print b
-print c
+print d
