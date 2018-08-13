@@ -14,3 +14,4 @@ print id(c)
 d = a[::-1] # 倒序
 print b
 print d
+print
